@@ -1,13 +1,15 @@
 # Hi there 👋, I'm Shaikh Warsi
 
-![Profile views](https://komarev.com/ghpvc/?username=ShaikhWarsi)
- 
+![Profile views](https://komarev.com/ghpvc/?username=shaikhwarsi)
+
+---
 
 ### 🚀 About Me
 - 🎓 Computer Science student specializing in **AI & Machine Learning**  
 - 💡 Building projects that combine **AI, software engineering, and automation**  
-- 📚 Interested in **philosophy, psychology, history, startups, and strategy**  
-- 🌱 Currently learning: **advanced AI agents, n8n workflows, and ML deployment**  
+- 📚 Passionate about **philosophy, psychology, history, startups, and strategy**  
+- 🌱 Currently learning: **AI agents, n8n workflows, and ML deployment**  
+- 🌐 Check out my portfolio: [shaikhwarsi.vercel.app](https://shaikhwarsi.vercel.app)  
 
 ---
 
@@ -20,12 +22,12 @@
 ---
 
 ### 📌 Featured Projects
-- **DietMaxx**
-- **CodeVert**
-- 🧠 **ExamAI** – AI-powered tool to assist in exam prep and smart question generation  
-- 🎬 **Movie Recommender System** – Personalized film suggestions using ML  
+- ⚡ **DietMaxx** – Smart diet planner with AI-based recommendations  
+- 💻 **CodeVert** – Code visualization & conversion tool  
+- 🧠 **ExamAI** – AI-powered assistant for exam prep and question generation  
+- 🎬 **Movie Recommender System** – Personalized ML-based recommendations  
 - ♟️ **Chess Analytics Website** – Fetches and analyzes games with Stockfish + custom stats  
-- 📱 **HumanEval** – Human Evaluation website a improved version of HumanBenchmark  
+- 🏆 **HumanEval** – Enhanced human evaluation & benchmarking platform  
 
 ---
 
@@ -36,23 +38,26 @@
 ---
 
 ### 🌐 Connect With Me
-- 💼 [LinkedIn]([https://www.linkedin.com/in/shaikhwarsi](https://www.linkedin.com/in/shaikh-mohammad-warsi-141532271/))  
-- [instagram](https://instagram.com/yamin_shaikh28)
-- 📧 Email: yollotemp@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shaikh-mohammad-warsi-141532271/)  
+- 📷 [Instagram](https://instagram.com/yamin_shaikh28)  
+- 🌐 [Portfolio](https://shaikhwarsi.vercel.app)  
+- 📧 Email: **yollotemp@gmail.com**  
+
+---
+
+### 🛠️ Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+---
+
+<details>
+  <summary>📖 More About Me</summary>
+  I’m always curious about how technology can be combined with strategy and creativity.  
+  Whether it’s designing AI agents, exploring startups, or studying philosophy and history,  
+  I aim to build tools and ideas that make an impact.  
+</details>
 
 ---
 
 ⭐️ From [shaikh-warsi](https://github.com/shaikhwarsi)  
-
-
-## 🛠️ Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-## 📊 GitHub Stats
-![ShaikhWarsi's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaikhWarsi&show_icons=true)
-
-<details>
-  <summary>More about me</summary>
-  ...hidden content...
-</details>
