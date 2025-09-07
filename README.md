@@ -1,8 +1,7 @@
 # Hi there 👋, I'm Shaikh Warsi
 
 ![Profile views](https://komarev.com/ghpvc/?username=ShaikhWarsi)
-
-# Hi there, I'm Shaikh Warsi 👋  
+ 
 
 ### 🚀 About Me
 - 🎓 Computer Science student specializing in **AI & Machine Learning**  
@@ -29,18 +28,18 @@
 ---
 
 ### 📊 GitHub Stats
-![Shaikh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikh-warsi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikh-warsi&layout=compact&theme=radical)
+![Shaikh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikhwarsi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhwarsi&layout=compact&theme=radical)
 
 ---
 
 ### 🌐 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/shaikh-warsi)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/shaikhwarsi)  
 - 📧 Email: your.email@example.com  
 
 ---
 
-⭐️ From [shaikh-warsi](https://github.com/shaikh-warsi)  
+⭐️ From [shaikh-warsi](https://github.com/shaikhwarsi)  
 
 ## 🚀 About Me
 I'm a passionate developer...
