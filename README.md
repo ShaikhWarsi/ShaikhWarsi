@@ -20,10 +20,12 @@
 ---
 
 ### 📌 Featured Projects
+- **DietMaxx**
+- **CodeVert**
 - 🧠 **ExamAI** – AI-powered tool to assist in exam prep and smart question generation  
 - 🎬 **Movie Recommender System** – Personalized film suggestions using ML  
 - ♟️ **Chess Analytics Website** – Fetches and analyzes games with Stockfish + custom stats  
-- 📱 **SkincareEz (app idea)** – AI skincare assistant & product aggregator  
+- 📱 **HumanEval** – Human Evaluation website a improved version of HumanBenchmark  
 
 ---
 
@@ -34,15 +36,14 @@
 ---
 
 ### 🌐 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/shaikhwarsi)  
-- 📧 Email: your.email@example.com  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/shaikhwarsi](https://www.linkedin.com/in/shaikh-mohammad-warsi-141532271/))  
+- [instagram](https://instagram.com/yamin_shaikh28)
+- 📧 Email: yollotemp@gmail.com  
 
 ---
 
 ⭐️ From [shaikh-warsi](https://github.com/shaikhwarsi)  
 
-## 🚀 About Me
-I'm a passionate developer...
 
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
