@@ -14,7 +14,7 @@
 ---
 
 ### 🛠️ Tech Stack
-**Languages:** Python | C++ | JavaScript | C  
+**Languages:** Python | C++ | JavaScript | Batch
 **AI/ML:** TensorFlow | Keras | Scikit-Learn | OpenAI API | Gemini API  
 **Web & Tools:** Flask | React | TailwindCSS | n8n | Git/GitHub  
 **Other:** SQL | Docker | Linux | VS Code  
