@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shaikh Warsi
+# Hi there 👋, I'm Shaikh Mohammad Warsi
 
 ![Profile views](https://komarev.com/ghpvc/?username=shaikhwarsi)
 
