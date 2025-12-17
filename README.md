@@ -1,63 +1,50 @@
-# Hi there 👋, I'm Shaikh Mohammad Warsi
+# Shaikh Mohammad Warsi
 
-![Profile views](https://komarev.com/ghpvc/?username=shaikhwarsi)
+Computer Science student focused on **AI, Machine Learning, and applied automation**.  
+I enjoy building systems that combine ML models, clean software design, and real-world use cases.
 
----
-
-### 🚀 About Me
-- 🎓 Computer Science student specializing in **AI & Machine Learning**  
-- 💡 Building projects that combine **AI, software engineering, and automation**  
-- 📚 Passionate about **philosophy, psychology, history, startups, and strategy**  
-- 🌱 Currently learning: **AI agents, n8n workflows, and ML deployment**  
-- 🌐 Check out my portfolio: [shaikhwarsi.vercel.app](https://shaikhwarsi.vercel.app)  
+🌐 Portfolio: https://shaikhwarsi.xyz  
+📧 Contact: yollotemp@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/shaikh-mohammad-warsi-141532271/
 
 ---
 
-### 🛠️ Tech Stack
-**Languages:** Python | C++ | JavaScript | Batch
-**AI/ML:** TensorFlow | Keras | Scikit-Learn | OpenAI API | Gemini API  
-**Web & Tools:** Flask | React | TailwindCSS | n8n | Git/GitHub  
-**Other:** SQL | Docker | Linux | VS Code  
+## Focus Areas
+- Machine Learning & Model Deployment
+- AI-powered applications and agents
+- Backend systems and automation workflows
+- Data-driven product design
 
 ---
 
-### 📌 Featured Projects
-- ⚡ **DietMaxx** – Smart diet planner with AI-based recommendations  
-- 💻 **CodeVert** – Code visualization & conversion tool  
-- 🧠 **ExamAI** – AI-powered assistant for exam prep and question generation  
-- 🎬 **Movie Recommender System** – Personalized ML-based recommendations  
-- ♟️ **Chess Analytics Website** – Fetches and analyzes games with Stockfish + custom stats  
-- 🏆 **HumanEval** – Enhanced human evaluation & benchmarking platform  
+## Tech Stack
+**Languages:** Python, TypeScript, JavaScript  
+**ML/AI:** TensorFlow, Keras, Scikit-learn, Gemini API  
+**Backend & Web:** FastAPI, Flask, React, Tailwind CSS  
+**Tools:** Git, GitHub, n8n, Docker (learning)
 
 ---
 
-### 📊 GitHub Stats
-![Shaikh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikhwarsi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhwarsi&layout=compact&theme=radical)
+## Selected Projects
+**DietMaxx**  
+AI-driven diet planning platform that generates personalized meal recommendations based on user goals and constraints.
+
+**ExamAI**  
+An AI assistant for exam preparation that ingests PDFs and PPTs to generate structured explanations and practice questions.
+
+**Chess Analytics Platform**  
+Web app that fetches online chess games, analyzes them using Stockfish, and presents custom performance metrics.
+
+**CodeVert**  
+Tool for code visualization and conversion, aimed at improving understanding of complex logic flows.
 
 ---
 
-### 🌐 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/shaikh-mohammad-warsi-141532271/)  
-- 📷 [Instagram](https://instagram.com/yamin_shaikh28)  
-- 🌐 [Portfolio](https://shaikhwarsi.vercel.app)  
-- 📧 Email: **yollotemp@gmail.com**  
+## Currently Learning
+- AI agents & orchestration
+- Workflow automation with n8n
+- Scalable ML deployment
 
 ---
 
-### 🛠️ Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-
----
-
-<details>
-  <summary>📖 More About Me</summary>
-  I’m always curious about how technology can be combined with strategy and creativity.  
-  Whether it’s designing AI agents, exploring startups, or studying philosophy and history,  
-  I aim to build tools and ideas that make an impact.  
-</details>
-
----
-
-⭐️ From [shaikh-warsi](https://github.com/shaikhwarsi)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shaikhwarsi&show_icons=true&theme=default)
