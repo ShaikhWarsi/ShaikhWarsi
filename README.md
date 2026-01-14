@@ -11,6 +11,21 @@ I enjoy building systems that combine ML models, clean software design, and real
 
 
 ---
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180px"
+          src="https://github-readme-stats.vercel.app/api?username=shaikhwarsi&show_icons=true&theme=transparent&hide_border=true" />
+      </td>
+      <td>
+        <img height="180px"
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhwarsi&layout=compact&theme=transparent&hide_border=true" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ## Focus Areas
 - Machine Learning & Model Deployment
