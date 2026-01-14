@@ -3,9 +3,12 @@
 Computer Science student focused on **AI, Machine Learning, and applied automation**.  
 I enjoy building systems that combine ML models, clean software design, and real-world use cases.
 
-🌐 Portfolio: https://shaikhwarsi.xyz  
-📧 Contact: yollotemp@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/shaikh-mohammad-warsi-141532271/
+<p align="center">
+🌐 <a href="https://shaikhwarsi.xyz">Portfolio</a> ·
+💼 <a href="https://www.linkedin.com/in/shaikh-mohammad-warsi-141532271/">LinkedIn</a> ·
+📧 <a href="mailto:yollotemp@gmail.com">Email</a>
+</p>
+
 
 ---
 
