@@ -96,14 +96,53 @@ Code visualization & conversion tool to improve understanding of complex logic f
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shaikhwarsi&theme=dracula&no-frame=true&row=1&column=7"/>
-</p>
+<!-- ================== GITHUB STATS ================== -->
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhwarsi&theme=radical"/>
-</p>
+<div align="center">
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=shaikhwarsi&theme=dracula&no-frame=true&row=1&column=7" />
+
+<br/><br/>
+
+<!-- GitHub Summary Cards -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shaikhwarsi&theme=react" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shaikhwarsi&theme=react" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shaikhwarsi&theme=react" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaikhwarsi&theme=react" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaikhwarsi&theme=react&utcOffset=5.5" />
+
+<br/><br/>
+
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhwarsi&theme=radical" />
+
+<br/><br/>
+
+<!-- LeetCode Stats -->
+<a href="https://github.com/JeremyTsaii/leetcode-stats">
+  <img src="https://leetcode-stats.vercel.app/api?username=shaikhwarsi&theme=Dark" />
+</a>
+
+<br/><br/>
+
+<!-- Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
+
+<!-- Pacman Contribution Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaikhwarsi/shaikhwarsi/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaikhwarsi/shaikhwarsi/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shaikhwarsi/shaikhwarsi/output/pacman-contribution-graph.svg">
+</picture>
+
+</div>
+
+<!-- ================== END ================== -->
+>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaikhwarsi&show_icons=true&theme=radical&border_radius=10"/>
