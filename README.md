@@ -140,6 +140,7 @@ Code visualization & conversion tool to improve understanding of complex logic f
 
 <!-- ================== END ================== -->
 >
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikhwarsi&theme=react-dark&border_radius=10" alt="Activity Graph" /> </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shaikhwarsi&show_icons=true&theme=radical&border_radius=10"/>
