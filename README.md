@@ -24,7 +24,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 
 </div>
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=shaikhwarsi&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 
+<br/><br/>
 ## 👨‍💻 About Me
 Computer Science student focused on **AI, Machine Learning, and applied automation**.  
 I enjoy building **end-to-end systems** that combine ML models, clean backend architecture, and real-world usability.
