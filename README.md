@@ -106,8 +106,7 @@ Code visualization & conversion tool to improve understanding of complex logic f
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=shaikhwarsi&theme=dracula&no-frame=true&row=1&column=7" />
+
 
 <br/><br/>
 
@@ -118,10 +117,7 @@ Code visualization & conversion tool to improve understanding of complex logic f
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shaikhwarsi&theme=react" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shaikhwarsi&theme=react&utcOffset=5.5" />
 
-<br/><br/>
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shaikhwarsi&theme=radical" />
 
 <br/><br/>
 
@@ -132,25 +128,10 @@ Code visualization & conversion tool to improve understanding of complex logic f
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 
-<!-- Pacman Contribution Graph -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaikhwarsi/shaikhwarsi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaikhwarsi/shaikhwarsi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shaikhwarsi/shaikhwarsi/output/pacman-contribution-graph.svg">
-</picture>
 
-</div>
 
 <!-- ================== END ================== -->
->
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaikhwarsi&theme=react-dark&border_radius=10" alt="Activity Graph" /> </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shaikhwarsi&show_icons=true&theme=radical&border_radius=10"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaikhwarsi&layout=compact&theme=radical&border_radius=10"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900"/>
 
 <div align="center">
   <i>“Build systems that think. Automate what doesn’t need humans.”</i>
