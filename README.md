@@ -122,10 +122,7 @@ Code visualization & conversion tool to improve understanding of complex logic f
 
 <br/><br/>
 
-<!-- LeetCode Stats -->
-<a href="https://github.com/JeremyTsaii/leetcode-stats">
-  <img src="https://leetcode-stats.vercel.app/api?username=shaikhwarsi&theme=Dark" />
-</a>
+
 
 <br/><br/>
 
