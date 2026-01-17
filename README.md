@@ -28,7 +28,7 @@
 <div align="center">
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=shaikhwarsi&label=Profile%20views&color=0e75b6&style=for-the-badge" />
-<div>
+</div>
 <br/><br/>
 ## 👨‍💻 About Me
 Computer Science student focused on **AI, Machine Learning, and applied automation**.  
