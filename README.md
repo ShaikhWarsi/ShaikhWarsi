@@ -121,8 +121,6 @@ Code visualization & conversion tool to improve understanding of complex logic f
 
 
 
-<br/><br/>
-
 <!-- Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" />
 
@@ -132,7 +130,7 @@ Code visualization & conversion tool to improve understanding of complex logic f
 
 
 <div align="center">
-  <i>“Build systems that think. Automate what doesn’t need humans.”</i>
+  <i>“Building systems that think. Automate what doesn’t need humans.”</i>
 </div>
 <br/><br/>
 
