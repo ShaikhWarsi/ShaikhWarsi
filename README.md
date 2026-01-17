@@ -134,3 +134,6 @@ Code visualization & conversion tool to improve understanding of complex logic f
 <div align="center">
   <i>“Build systems that think. Automate what doesn’t need humans.”</i>
 </div>
+<br/><br/>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
