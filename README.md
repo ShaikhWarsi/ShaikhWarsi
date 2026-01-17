@@ -112,7 +112,7 @@ Code visualization & conversion tool to improve understanding of complex logic f
 
 <div style="position: relative; width: 100%;">
   <p align="center">
-    <img src="https://yourinsights.vercel.app/api/insight?username=N-PCs&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+    <img src="https://yourinsights.vercel.app/api/insight?username=shaikhwarsi&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
   </p>
 </div>
 <br>
