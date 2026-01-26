@@ -113,7 +113,7 @@ A local AI assistant capable of automating desktop tasks — from opening applic
 - AI agents & orchestration with LLMs  
 - Applied ML for decision-making systems  
 - Automation pipelines connecting AI to real workflows
-- AI integration in stock market
+- AI integration in financial markets
 
 ---
 
