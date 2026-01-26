@@ -30,8 +30,10 @@
 <img src="https://komarev.com/ghpvc/?username=shaikhwarsi&label=Profile%20views&color=0e75b6&style=for-the-badge" />
 </div>
 <br/><br/>
+
 ## 👨‍💻 About Me
-Computer Science student focused on **AI, Machine Learning, and applied automation**.  
+
+Computer Science student focused on **AI, Machine Learning, and applied automation.  
 I enjoy building **end-to-end systems** that combine ML models, clean backend architecture, and real-world usability.
 
 - 🔍 Interested in applied AI, agents & orchestration  
