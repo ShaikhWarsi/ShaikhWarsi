@@ -89,24 +89,24 @@ I enjoy building **end-to-end systems** that combine ML models, clean backend ar
 ---
 
 ## 🧩 Selected Projects
-**🔹 Cropix**  
-An AI driven solution for farmers to increase their productivty as well as efficieny. It leverages over 5 ML models.
 
-**🔹 HumanEval**  
-An app for testing cognitive skills like reaction speed,number memorization , reading and typing speeds etc
+**🔹 Cropix**
+An AI-driven solution for farmers to improve crop productivity and operational efficiency, leveraging 5+ ML models for prediction and recommendations.
 
-**🔹 HackathonHunt**  
-An all rounder website for finding all the major hackathon events happening online around the globe
+**🔹 HumanEval**
+A cognitive assessment platform for testing reaction time, memory, reading speed, and typing performance, with structured performance metrics.
 
-**🔹 DietMaxx**  
-An AI assisted tool which helps you find the most optimal diet and reccomendations based on your lifestyle
+**🔹 HackathonHunt**
+A centralized platform aggregating major online hackathons worldwide, helping developers discover opportunities faster.
 
-**🔹 CodeVert**  
-Code visualization & conversion tool to improve understanding of complex logic flows.
+**🔹 DietMaxx**
+An AI-assisted nutrition platform that generates personalized diet plans and recommendations based on lifestyle and goals.
 
-**🔹 AiAssist**  
-An AI tool which runs on your pc and can do any task for you, from opening a yt video to writing your codes
+**🔹 CodeVert**
+A code visualization and conversion tool designed to simplify and explain complex logic flows.
 
+**🔹 AiAssist**
+A local AI assistant capable of automating desktop tasks — from opening applications to code generation and workflow automation.
 
 ---
 
