@@ -33,7 +33,7 @@
 
 ## 👨‍💻 About Me
 
-Computer Science student focused on **AI, Machine Learning, and applied automation.  
+Computer Science student focused on **AI, Machine Learning, and applied automation**.  
 I enjoy building **end-to-end systems** that combine ML models, clean backend architecture, and real-world usability.
 
 - 🔍 Interested in applied AI, agents & orchestration  
