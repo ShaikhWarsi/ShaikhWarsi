@@ -87,17 +87,24 @@ I enjoy building **end-to-end systems** that combine ML models, clean backend ar
 ---
 
 ## 🧩 Selected Projects
+**🔹 Cropix**  
+An AI driven solution for farmers to increase their productivty as well as efficieny. It leverages over 5 ML models.
+
+**🔹 HumanEval**  
+An app for testing cognitive skills like reaction speed,number memorization , reading and typing speeds etc
+
+**🔹 HackathonHunt**  
+An all rounder website for finding all the major hackathon events happening online around the globe
+
 **🔹 DietMaxx**  
-AI-driven diet planning platform generating personalized meal plans based on goals and constraints.
-
-**🔹 ExamAI**  
-AI exam-prep assistant that ingests PDFs/PPTs and generates structured explanations & questions.
-
-**🔹 Chess Analytics Platform**  
-Analyzes online chess games using Stockfish and presents custom performance insights.
+An AI assisted tool which helps you find the most optimal diet and reccomendations based on your lifestyle
 
 **🔹 CodeVert**  
 Code visualization & conversion tool to improve understanding of complex logic flows.
+
+**🔹 AiAssist**  
+An AI tool which runs on your pc and can do any task for you, from opening a yt video to writing your codes
+
 
 ---
 
