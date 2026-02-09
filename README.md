@@ -130,7 +130,7 @@ A local AI assistant capable of automating desktop tasks — from opening applic
 
 <div style="position: relative; width: 100%;">
   <p align="center">
-    <img src="https://yourinsights.vercel.app/api/insight?username=shaikhwarsi&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true" alt="GitHub Insights" />
+    <img src="https://yourinsights.vercel.app/api/insight?username=shaikhwarsi&theme=github_dark&graph=true&languages=true&streak=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
   </p>
 </div>
 <br>
